@@ -4,14 +4,14 @@ I'm backend junior developer.
 
 ### Tech
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>-->
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"> <img src="https://img.shields.io/badge/Sprig boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"> </a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"></a>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/JUint5-25A162?style=flat-square&logo=JUnit5&logoColor=white">
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"> </a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"></a>
 <!--<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon RDS-FF9900?style=flat-square&logo=Amazon RDS&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon S3-FF9900?style=flat-square&logo=Amazon S3&logoColor=white">-->
