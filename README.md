@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm backend junior developer.
 - 🌱 I’m currently learning Spring Boot.
 
 ### Tech
@@ -17,7 +16,7 @@ I'm backend junior developer.
     <img src="https://img.shields.io/badge/Amazon S3-FF9900?style=flat-square&logo=Amazon S3&logoColor=white">-->
 
 ### Language 
-that I used at least once.
+that I've used at least once.
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"> <img src="https://img.shields.io/badge/Java-D24939?style=flat-square&logo=openjdk&logoColor=white"></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
@@ -54,6 +53,7 @@ https://simpleicons.org
 
 Here are some ideas to get you started:
 
+I'm backend junior developer.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
