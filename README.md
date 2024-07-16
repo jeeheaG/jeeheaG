@@ -44,7 +44,7 @@
     
 |활동|내용|기간|
 |:-:|:-|:-:|
-| **AWS University Student Group (AUSG) 8기** | 개발&클라우드 커뮤니티 동아리 | <sub>2024/07 - ing</sub> |
+| **AWSKRUG University Student Group (AUSG) 8기** | 개발&클라우드 커뮤니티 동아리 | <sub>2024/07 - ing</sub> |
 | **Cloud Club 4기~5기** | 클라우드 동아리 운영진 | <sub>2023/09 - ing</sub> |
 | **UMC 2기** | Spring boot 프로젝트 진행 | <sub>2022/03 - 2022/08</sub> |
 | **OUTTA AI Boot Camp 1기** | ML 부트캠프 | <sub>2022/07 - 2022/08</sub> |
