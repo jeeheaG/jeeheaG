@@ -39,7 +39,7 @@
 
 <br/>
 
-### Activity
+### Community
 <div markdown="1">
     
 |활동|내용|기간|
