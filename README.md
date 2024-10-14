@@ -34,7 +34,7 @@
 <br/>
 
 ### Main Project
-- [💃Pocket-Pose](https://github.com/2023-HATCH/hatch-server-2023) : 실시간 댄스 앱서비스. 백엔드 팀장, 인프라 관리자 (2023.01 - 2023.10)
+- [💃Pocket-Pose](https://github.com/jeeheaG/hatch-server-2023) : 실시간 댄스 앱서비스. 백엔드 팀장, 인프라 관리자 (2023.01 - 2023.10)
 - [😺우리동네 고영희](https://github.com/jeeheaG/DongnaeGoyang-Server) : 길고양이 돌봄 커뮤니티. 백엔드 전체 개발 (2022.04 - 2022.11)
 
 <br/>
