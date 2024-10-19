@@ -45,7 +45,7 @@
 |활동|내용|기간|
 |:-:|:-|:-:|
 | **AWSKRUG University Student Group (AUSG) 8기** | 개발&클라우드 커뮤니티 동아리 | <sub>2024/07 - now</sub> |
-| **Cloud Club 4기~5기** | 클라우드 동아리 운영진 | <sub>2023/09 - now</sub> |
+| **Cloud Club 4기** | 클라우드 동아리 운영진 | <sub>2023/09 - now</sub> |
 | **UMC 2기** | Spring boot 프로젝트 진행 | <sub>2022/03 - 2022/08</sub> |
 | **OUTTA AI Boot Camp 1기** | ML 부트캠프 | <sub>2022/07 - 2022/08</sub> |
 | **CoDuk 운영진** | 교내 IT커뮤니티. 해커톤, Meet up 등 행사 주최 | <sub>2021/04 - 2022/08</sub> |
